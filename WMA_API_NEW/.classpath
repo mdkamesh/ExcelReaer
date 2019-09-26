@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="WMA_API_NEW/src/main/java"/>
+	<classpathentry kind="lib" path="WMA_API_NEW/target/WMA_API_NEW-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="WMA_API_NEW/target/classes"/>
+</classpath>
